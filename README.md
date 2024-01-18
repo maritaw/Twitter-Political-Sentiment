@@ -21,8 +21,8 @@ The dataset comprises tweets posted by politicians from the specified Northern E
 Included examination of tweet and hashtag lengths, common hashtags, political views, and gender distribution among the tweet posters.
 
 **Methodology**
-Clustering Models: NMF (Non-Negative Matrix Factorization) and LDA (Latent Dirichlet Allocation) were used for topic generation.
 
+Clustering Models: NMF (Non-Negative Matrix Factorization) and LDA (Latent Dirichlet Allocation) were used for topic generation.
 Model Training: The Random Forest classifier was employed, with preprocessing steps including text cleaning, label encoding, tf-idf vectorization, and class weight balancing.
 
 **Results**

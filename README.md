@@ -3,7 +3,7 @@
 
 **Classification of Tweets from Northern Europe**
 
-This project presents an analysis of tweets by politicians from seven Northern European countries (Belgium, Denmark, Iceland, Ireland, Netherlands, Norway, and Sweden), as part of the Kaggle Challenge: Classification of Tweets from Northern Europe. The focus was on comparing features of these tweets and applying multiple clustering models. A Random Forest model was trained and validated, achieving an accuracy of 0.61, outperforming other models like Logistic Regression and Naive Bayes.
+This project presents an analysis of tweets by politicians from seven Northern European countries (Belgium, Denmark, Iceland, Ireland, Netherlands, Norway, and Sweden). The focus was on comparing the features of these tweets and applying multiple clustering models. A Random Forest model was trained and validated, achieving an accuracy of 0.61, outperforming other models like Logistic Regression and Naive Bayes.
 
 **Introduction**
 The dataset comprises tweets posted by politicians from the specified Northern European countries, provided by the Kaggle challenge. After data refinement and preliminary analysis, insights into political views, gender distribution, and common hashtags were drawn.

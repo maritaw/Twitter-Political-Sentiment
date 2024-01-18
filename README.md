@@ -9,6 +9,7 @@ This project presents an analysis of tweets by politicians from seven Northern E
 The dataset comprises tweets posted by politicians from the specified Northern European countries, provided by the Kaggle challenge. After data refinement and preliminary analysis, insights into political views, gender distribution, and common hashtags were drawn.
 
 **Data**
+
   Dataset Size: 509,031 tweets (20% for training, 80% for testing).
   Features:
   Hashtags
@@ -17,7 +18,9 @@ The dataset comprises tweets posted by politicians from the specified Northern E
       - Country of the tweet’s owner
       - Political view of the tweet’s owner
       - Tweet ID
+      
 **Preliminary Analysis:**
+
 Included examination of tweet and hashtag lengths, common hashtags, political views, and gender distribution among the tweet posters.
 
 **Methodology**

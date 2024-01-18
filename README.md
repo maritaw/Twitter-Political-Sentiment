@@ -23,6 +23,7 @@ Included examination of tweet and hashtag lengths, common hashtags, political vi
 **Methodology**
 
 Clustering Models: NMF (Non-Negative Matrix Factorization) and LDA (Latent Dirichlet Allocation) were used for topic generation.
+
 Model Training: The Random Forest classifier was employed, with preprocessing steps including text cleaning, label encoding, tf-idf vectorization, and class weight balancing.
 
 **Results**
